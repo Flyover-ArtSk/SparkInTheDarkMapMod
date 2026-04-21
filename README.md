@@ -1,4 +1,4 @@
-## Requironments
+## Requirements
 Download and install [MelonLoader](https://melonwiki.xyz/#/README)
 
 ## Instalation
